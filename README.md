@@ -1,5 +1,17 @@
-# Vue 3 + Vite
+# Vue + Tailwind CSS
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+This template created for using Vue + TailwindCSS project instantly by cloning this project using below command:
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+Template នេះបង្កើតឡើងសម្រាប់ការប្រើប្រាស់ Vue + TailwindCSS ភ្លាមៗដោយគ្រាន់តែ clone នូវ project នេះតាមរយៈ command ខាងក្រោម៖
+
+PowerShell:
+
+```powershell
+git clone https://github.com/samithseu/vue-tailwindcss.git; cd vue-tailwindcss
+```
+
+Bash:
+
+```shell
+git clone https://github.com/samithseu/vue-tailwindcss.git && cd vue-tailwindcss
+```

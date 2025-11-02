@@ -8,12 +8,8 @@
       alt="Vue Logo"
     />
     <h2 class="text-green-300 text-center font-semibold text-2xl">
-      This project created for
+      This <span class="font-mono">template</span> created for
       <span class="font-mono"> Vue + TailwindCSS</span>.
-    </h2>
-    <h2 class="text-green-300 text-center font-semibold text-2xl">
-      Project នេះបង្កើតឡើងសម្រាប់ការប្រើប្រាស់
-      <span class="font-mono"> Vue + TailwindCSS</span>
     </h2>
   </div>
 </template>

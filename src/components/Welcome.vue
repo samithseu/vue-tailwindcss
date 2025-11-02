@@ -11,9 +11,7 @@
     />
     <h2 class="text-green-300 text-center font-semibold text-2xl">
       This <span class="font-mono">template</span> created for
-      <span class="font-mono">
-        Vue + <span class="text-[#00bcff]">TailwindCSS</span></span
-      >.
+      <span class="font-mono"> Vue + TailwindCSS</span>.
     </h2>
   </div>
 </template>

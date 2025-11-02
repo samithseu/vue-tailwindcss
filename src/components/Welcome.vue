@@ -1,3 +1,5 @@
+<script lang="ts" setup></script>
+
 <template>
   <div
     class="w-dvw min-h-dvh bg-[#020905] flex flex-col gap-8 items-center justify-center selection:bg-[#41B883] selection:text-white"
@@ -13,5 +15,3 @@
     </h2>
   </div>
 </template>
-
-<script setup></script>
